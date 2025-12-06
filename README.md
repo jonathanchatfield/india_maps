@@ -1,1 +1,3 @@
-# india_maps
+# Maps of India
+
+Thee maps were created using QGIS, PostgreSQL, and PostGIS
