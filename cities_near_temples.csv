@@ -1,0 +1,80 @@
+city_name,state,population,latitude,longitude
+Delhi,Delhi,15926000.0,28.671939,77.228058
+Chennai,Tamil Nadu,7163000.0,13.091934,80.278053
+Bengaluru,Karnataka,6787000.0,12.971941,77.558064
+Surat,Dadra and Nagar Haveli,3842000.0,21.20193,72.838094
+Kanpur,Uttar Pradesh,3162000.0,26.461945,80.31805
+Lucknow,Uttar Pradesh,2695000.0,26.856985,80.913053
+Patna,Bihar,2158000.0,25.626905,85.128093
+Ludhiana,Punjab,1649000.0,30.929708,75.870312
+Meerut,Uttar Pradesh,1398000.0,29.002358,77.698055
+Faridabad,Haryana,1394000.0,28.435279,77.314721
+Varanasi,Uttar Pradesh,1352000.0,25.331936,82.998094
+Ghaziabad,Uttar Pradesh,1341000.0,28.662327,77.406445
+Rajkot,Dadra and Nagar Haveli,1260000.0,22.311965,70.798063
+Allahabad,Uttar Pradesh,1201000.0,25.456941,81.838061
+Ranchi,Jharkhand,1044000.0,23.371952,85.328081
+Chandigarh,Chandigarh,979000.0,30.721943,76.77806
+Salem,Tamil Nadu,873000.0,11.671943,78.178129
+Bhubaneswar,Orissa,844000.0,20.272374,85.825415
+Bareilly,Uttar Pradesh,817000.0,28.347333,79.418054
+Moradabad,Uttar Pradesh,787000.0,28.843737,78.754838
+Dehra Dun,Uttaranchal,714223.0,30.320409,78.050006
+Nellore,Andhra Pradesh,678004.0,14.439983,79.989939
+Gorakhpur,Uttar Pradesh,674246.0,26.750394,83.380016
+Raurkela,Orissa,625831.0,22.230412,84.829954
+Cuttack,Orissa,580000.0,20.470003,85.889941
+Bhavnagar,Dadra and Nagar Haveli,554978.0,21.778424,72.129954
+Guntur,Andhra Pradesh,530577.0,16.329997,80.450014
+Saharanpur,Uttar Pradesh,484873.0,29.970017,77.550036
+Ballari,Karnataka,445388.0,15.150043,76.915036
+Kurnool,Andhra Pradesh,424920.0,15.830001,78.030007
+Gaya,Bihar,423692.0,24.799971,85.000021
+Tumakuru,Karnataka,399606.0,13.329973,77.100038
+Muzaffarnagar,Uttar Pradesh,349706.0,29.485008,77.69504
+Muzaffarpur,Bihar,333200.0,26.120433,85.379946
+Patiala,Punjab,329224.0,30.320409,76.384991
+Brahmapur,Orissa,324726.0,19.319995,84.799981
+Shahjahanpur,Uttar Pradesh,320434.0,27.880377,79.905035
+New Delhi,Delhi,317797.0,28.600023,77.19998
+Rohtak,Haryana,317245.0,28.900005,76.580018
+Sambalpur,Orissa,310852.0,21.470407,83.970058
+Rampur,Uttar Pradesh,296418.0,28.815359,79.024985
+Panipat,Haryana,292808.0,29.400413,76.969968
+Bhuj,Dadra and Nagar Haveli,289429.0,23.250375,69.809992
+Tirupati,Andhra Pradesh,287035.0,13.650419,79.42
+Mandya,Karnataka,285034.0,12.570381,76.919997
+Chirala,Andhra Pradesh,253000.0,15.860413,80.339995
+Sonipat,Haryana,250521.0,28.999999,77.019991
+Mirzapur,Uttar Pradesh,245817.0,25.145376,82.569988
+Hapur,Uttar Pradesh,242920.0,28.743658,77.762788
+Porbandar,Dadra and Nagar Haveli,234684.0,21.669981,69.67
+Puducherry,Puducherry,227411.0,11.934994,79.83
+Karnal,Haryana,225049.0,29.680448,76.969968
+Ongole,Andhra Pradesh,202860.0,15.56038,80.050039
+Puri,Orissa,201026.0,19.82043,85.900018
+Bulandshahr,Uttar Pradesh,198612.0,28.410371,77.848416
+Proddatur,Andhra Pradesh,197451.0,14.750429,78.570026
+Gurgaon,Haryana,197340.0,28.450006,77.019991
+Nandyal,Andhra Pradesh,188654.0,15.520382,78.479954
+Bahraich,Uttar Pradesh,182218.0,27.620419,81.66994
+Vizianagaram,Andhra Pradesh,179358.0,18.120404,83.500009
+Vellore,Tamil Nadu,177081.0,12.920386,79.150042
+Simla,Himachal Pradesh,173503.0,31.100026,77.166597
+Hindupur,Andhra Pradesh,168312.0,13.780359,77.489988
+Fatehpur,Uttar Pradesh,166480.0,25.88037,80.800019
+Navsari,Dadra and Nagar Haveli,163000.0,20.850393,72.920035
+Budaun,Uttar Pradesh,161555.0,28.030006,79.089994
+Cuddalore,Tamil Nadu,158569.0,11.720407,79.770004
+Hoshiarpur,Punjab,158142.0,31.519974,75.980003
+Kanchipuram,Tamil Nadu,155029.0,12.833724,79.716674
+Faizabad,Uttar Pradesh,153047.0,26.750394,82.170013
+Ambala,Haryana,146787.0,30.320021,76.820003
+Kolar,Karnataka,144625.0,13.133706,78.13336
+Kumbakonam,Tamil Nadu,139264.0,10.980478,79.400001
+Tiruvannamalai,Tamil Nadu,138243.0,12.260374,79.099967
+Pilibhit,Uttar Pradesh,131008.0,28.639995,79.810002
+Aurangabad,Bihar,95929.0,24.770412,84.380007
+Daman,Dadra and Nagar Haveli,39737.0,20.417008,72.850013
+Silvassa,Dadra and Nagar Haveli,27359.0,20.266578,73.016618
+Diu,Dadra and Nagar Haveli,23779.0,20.719673,70.990395
